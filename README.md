@@ -2,6 +2,9 @@
 
 A comprehensive weather application built with React that provides real-time weather information, forecasts, interactive maps, and customizable alerts.
 
+## 📺 Demo Video
+**[▶️ Watch the full demo on YouTube](https://youtu.be/HZ6bYz08gLY)**
+
 ## 🌤️ Features
 
 - **Home Dashboard**: Clean, intuitive interface displaying current weather conditions
